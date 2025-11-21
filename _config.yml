@@ -1,14 +1,14 @@
 # Configurations
-title:            MapChallenge2024
-longtitle:        My #30DayMapChallenge 2024
+title:            MapChallenge2025
+longtitle:        My #30DayMapChallenge 2025
 author:           Viglino
 email:            jean-marc.viglino@ign.fr
-description: My #30DayMapChallenge 2024
+description: My #30DayMapChallenge 2025
   
 version:          1.0
 
 url:              'https://viglino.github.io'
-baseurl:          '/MapChallenge2024'
+baseurl:          '/MapChallenge2025'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -18,7 +18,7 @@ remote_theme: just-the-docs/just-the-docs
 back_to_top: false
 back_to_top_text: "Haut de page"
 
-footer_content: "Copyright &copy; 2024 - <a href=\"https://github.com/Viglino\">Jean-Marc Viglino</a> - CC-BY"
+footer_content: "Copyright &copy; 2025 - <a href=\"https://github.com/Viglino\">Jean-Marc Viglino</a> - CC-BY"
 
 toc:
   enabled: true
