@@ -10,7 +10,7 @@ image: ./day4-img.jpg
 ---
 # Day 4 - My data
 
-Mon nom st sur une carte !
+Mon nom est sur une carte !
 
 {: .center }
 ![](./day4-img.jpg){:width="550px"}{: .fullscreen }    

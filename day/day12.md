@@ -17,7 +17,8 @@ Une carte futuriste de la France avec un style personnalisé du Vecteur tuilé d
 ![](./day12-img.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/tQMSiG/Map-from-2125){:target="macarte"}
 
-![](./day12-img1.jpg){:width="250px"}{: .fullscreen } ![](./day12-img2.jpg){:width="250px"}{: .fullscreen } ![](./day12-img3.jpg){:width="250px"}{: .fullscreen } ![](./day12-img4.jpg){:width="250px"}{: .fullscreen } ![](./day12-img5.jpg){:width="250px"}{: .fullscreen } ![](./day12-img6.jpg){:width="250px"}{: .fullscreen }    
+{: .center }
+![](./day12-img1.jpg){:width="240px"}{: .fullscreen } ![](./day12-img2.jpg){:width="240px"}{: .fullscreen } ![](./day12-img3.jpg){:width="240px"}{: .fullscreen } ![](./day12-img4.jpg){:width="240px"}{: .fullscreen } ![](./day12-img5.jpg){:width="240px"}{: .fullscreen } ![](./day12-img6.jpg){:width="240px"}{: .fullscreen }    
 
 
 <iframe width="315" height="560" src="https://youtube.com/embed/biZGMwKLtcw" title="#30DayMapChallenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto"></iframe>
