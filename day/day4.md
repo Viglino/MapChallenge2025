@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /day3-mydata
+permalink: /day4-mydata
 title: Day 4 - My Data
 nav_order: 4
 parent: 30DayMapChallenge 2025
