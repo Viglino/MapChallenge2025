@@ -14,6 +14,7 @@ image: ./day29-img.jpg
 🎲 Jouer en ligne ➡️ https://lnkd.in/ehC2_vsE
 
 ✅ C'est où ⁉️ retrouvez la localisation d'une photographie aérienne ou d'une carte IGN (Institut national de l'information géographique et forestière). 🧩 consultez les indices, faites vos propres recherches (rien à gagner mais rien à perdre).
+[🎲 Jouer en ligne](https://viglino.github.io/maps/maps/cestou.html){:target="macarte"}
 
 {: .center }
 ![](./day29-img.jpg){:width="550px"}{: .fullscreen }    
