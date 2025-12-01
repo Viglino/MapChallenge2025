@@ -13,6 +13,8 @@ image: ./day12-img.jpg
 🚀 « A long time ago in a galaxy far, far away… »
 Une carte futuriste de la France avec un style personnalisé du Vecteur tuilé de IGN.
 
+[🏆 sur mvacoyote](https://www.mvacoyote.com/30daymapchallenge-map-from-2125/)
+
 {: .center }
 ![](./day12-img.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/tQMSiG/Map-from-2125){:target="macarte"}
