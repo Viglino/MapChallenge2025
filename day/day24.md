@@ -5,17 +5,19 @@ title: Day 24 - Places and their names
 nav_order: 24
 parent: 30DayMapChallenge 2025
 author: Viglino
-date: 2025-11-04
-image: ./day4-img.jpg
+date: 2025-11-24
+image: ./day24-img.jpg
 ---
 # Day 24 - Places and their names
 
 **LA lartecoc* des louchébems ! 🐮**
-Celle que vous attendiez tous ❗ 
-⁉️ Quel est le point commun entre "loufoque", "en loucedé", "larfeuille" et les communes sur cette carte ? 
-✅ C'est du largonji louchébem ! le jargon des bouchers parlé par les bouchers parisiens et lyonnais dans la première moitié du XIXs...
-🐑 Ca coûte pas lerche et c'est pas pour les locdus !
-🔪 Données Insee - Sirene (44.22Z) et IGN (Institut national de l'information géographique et forestière)
+
+Celle que vous attendiez tous ❗    
+⁉️ Quel est le point commun entre "loufoque", "en loucedé", "larfeuille" et les communes sur cette carte ?    
+✅ C'est du largonji louchébem ! le jargon des bouchers parlé par les bouchers parisiens et lyonnais dans la première moitié du XIXs...     
+🐑 Ca coûte pas lerche et c'est pas pour les locdus !    
+🔪 Données Insee - Sirene (44.22Z) et IGN (Institut national de l'information géographique et forestière).
+
 🎁 La carte interactive pour tout savoir (avec une p'tite lansonchouille en bonus)
 
 {: .center }
