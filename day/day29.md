@@ -20,18 +20,18 @@ image: ./day29-img.jpg
 [Voir la carte en ligne](https://viglino.github.io/maps/maps/cestou.html){:target="macarte"}
 
 {: .center }
-![](./day29-img-2.jpg){:width="240px"}{: .fullscreen } 
-![](./day29-img-3.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-4.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-5.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-6.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-7.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-8.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-9.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-10.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-11.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-12.jpg){:width="240px"}{: .fullscreen }       
-![](./day29-img-13.jpg){:width="240px"}{: .fullscreen }       
+![](./day29-img-2.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-3.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-4.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-5.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-6.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-7.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-8.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-9.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-10.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-11.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-12.jpg){:width="240px"}{: .fullscreen }
+![](./day29-img-13.jpg){:width="240px"}{: .fullscreen }
 
 {: .center }
 [![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://x.com/jmviglino/status/1994702694297342335) - [![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg){:width="40px"}](https://bsky.app/profile/jmviglino.bsky.social/post/3m6r43g2dnk24) - [![](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg){:width="40px"}](https://www.linkedin.com/posts/jean-marc-viglino-87826b14b_30daymapchallenge-geographique-opensource-activity-7400441770389483520-87ti)
